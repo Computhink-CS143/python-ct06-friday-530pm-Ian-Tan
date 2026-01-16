@@ -1,7 +1,38 @@
-print("Hello from lesson 2")
+print("Task one:")
+# print("Red")
+# print("Orange")
+# print("Yellow")
+# print("Green")
+# print("Blue")
+print("Purple")
+# print("Pink")
 
-######## Write the pseudocode in comments for task 2 here
-# Using comments, translate the code shown on screen into pseudocode.
+# if the trash is glass, plastic or paper then
+#    say thank you
+#    grab the rubbish
+# if not then
+#    say this is not recyclable
+#    push it away
 
-######## Write the pseudocode in comments for task 3 here
-# Using comments, translate the code shown on screen into pseudocode.
+
+# repeat 10 times
+#    say "Hey!"
+#    move ten steps
+
+# set a counter to 0
+#repeat until the counter = 50
+#    move 10 steps
+#    turn right 15 degrees
+#    increase 10 to the counter
+
+# ask what is your name?
+# if the answer is less than 18 then
+#    say access denied!
+# if not
+#    say welcome!
+
+# the hidden password is openopen
+# if the user types openopen
+#    say welcome!
+# if not
+#    say error! wrong password!
