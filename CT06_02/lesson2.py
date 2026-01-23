@@ -36,3 +36,9 @@ print("Purple")
 #    say welcome!
 # if not
 #    say error! wrong password!
+hidden_word = "openopen"
+reply = input("tell me the secret code word:")
+if hidden_word == reply:
+    print("access is granted!")
+else:
+    print("wrong passcode!")
