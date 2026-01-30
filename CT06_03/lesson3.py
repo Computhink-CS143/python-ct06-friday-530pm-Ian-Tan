@@ -55,16 +55,25 @@ total1 = a + b
 print(total1)
 
 #Task 4b
-......
+#.......
 
 #Task 4c
-......
+#.......
 
 #Task 4d
-......
+#........
 #-----------------------------
 
+#task 5a
+total2 = (15*2)+58
+print(total2)
 
+#task 5b
+total3 = 96 + (3 * 18) + (6 * 2)
+serviceCharge = 10 / 100 * total3
+total4 = total3 + serviceCharge
+final = total4 - 25
+print(final)
 
 
 
