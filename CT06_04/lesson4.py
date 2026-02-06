@@ -7,7 +7,6 @@ green = 3 * 4
 total = red + blue + green
 print("pls pay $" + str(total))
 
-#POLICE!
 #task 1a
 yourname = input("what is your name?")# ask a question
 print("Nice to meet you, " + yourname + "!")#concatenation
