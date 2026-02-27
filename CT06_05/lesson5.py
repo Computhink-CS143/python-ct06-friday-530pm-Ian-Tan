@@ -44,8 +44,8 @@ print("Hello from lesson 5")
 #     print (count)
 
 # #task 6
-# for count in range(1, 6, 2):
-#     print (count)
+for count in range(1, 6, 2):
+    print (count)
 
 
 
