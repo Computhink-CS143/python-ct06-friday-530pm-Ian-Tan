@@ -20,12 +20,13 @@
 #               "hunter",
 #               "declan",
 #               "shane",
-#               "eliga",
+#               "elija",
 #               "emanual",
 #               "trevor",
 #               "shrihaan",
 #               "vohith",
 #               "jadon"
+#               "ruban"
 #               ]
 
 # riddle
